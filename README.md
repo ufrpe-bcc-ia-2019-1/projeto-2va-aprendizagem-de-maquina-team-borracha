@@ -1,5 +1,7 @@
 # Projeto 2VA - Aprendizagem de Máquina				
 ## UFRPE - BCC - IA
+# Tema
+Sistema Recomendação 
 
 ## Equipe:
 - Edilson Alves
